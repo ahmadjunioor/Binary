@@ -26,5 +26,8 @@ public:
     node* ROOT;
     
     BinaryTree()
+    {
+        ROOT = nullptr;  //Initializing ROOT to null
+    }
 
 }

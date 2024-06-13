@@ -24,4 +24,7 @@ class BinaryTree
 {
 public:
     node* ROOT;
+    
+    BinaryTree()
+
 }

@@ -30,4 +30,6 @@ public:
         ROOT = nullptr;  //Initializing ROOT to null
     }
 
+    void insert(string element) //insert a node in the binary seacrh tree
+
 }
